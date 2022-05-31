@@ -1,0 +1,17 @@
+{
+    "name": "FunkySheep.GPS",
+    "rootNamespace": "",
+    "references": [
+        "GUID:8dab0731d65dec94890ae1efe17f6f85",
+        "GUID:b1211e128b1ebc149ada3347f2d73d5b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
