@@ -1,4 +1,4 @@
-## Version 0.1.0 (May 31, 2022)
+## Version 0.1.7 (May 31, 2022)
 - **Features**
   - Intial release
 

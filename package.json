@@ -1,7 +1,7 @@
 {
   "name": "net.funkysheep.unity.gps",
   "displayName": "FunkySheep Unity GPS Library",
-  "version": "0.1.0",
+  "version": "0.1.7",
   "unity": "2020.3",
   "description": "FunkySheep framework GPS Library",
   "keywords": [
