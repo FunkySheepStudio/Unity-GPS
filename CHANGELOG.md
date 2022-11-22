@@ -1,3 +1,8 @@
+## Version 0.1.9 (November 22, 2022)
+- **Bug Fixes**
+  - Fix dependencies
+
+
 ## Version 0.1.8 (September 13, 2022)
 - **Features**
   - Add No Gps Event
