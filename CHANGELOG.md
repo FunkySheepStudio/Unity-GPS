@@ -1,3 +1,7 @@
+## Version 0.2.0 (November 24, 2022)
+- **Bug Fixes**
+  - Fix Assembly definition
+
 ## Version 0.1.9 (November 22, 2022)
 - **Bug Fixes**
   - Fix dependencies
